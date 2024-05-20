@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Atrio", "Web-Atrio\Web-Atrio.csproj", "{9DABF8DD-1A0B-4F73-ADC6-69B2AB63ECD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CC65EA10-21B9-4D4C-9B92-D4D85D7B5424}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E2619A5E-BE11-4B21-B8C9-F84047717E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DABF8DD-1A0B-4F73-ADC6-69B2AB63ECD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DABF8DD-1A0B-4F73-ADC6-69B2AB63ECD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DABF8DD-1A0B-4F73-ADC6-69B2AB63ECD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DABF8DD-1A0B-4F73-ADC6-69B2AB63ECD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9DABF8DD-1A0B-4F73-ADC6-69B2AB63ECD3} = {CC65EA10-21B9-4D4C-9B92-D4D85D7B5424}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5EE582-AB4C-45B5-8121-37EA8E231136}
+	EndGlobalSection
+EndGlobal
